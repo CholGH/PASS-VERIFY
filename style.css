@@ -1,0 +1,21 @@
+body {
+    background-color: #ffffff;
+}
+
+#nav {
+    background-color: #6C63FF;
+}
+
+#titulo {
+    color: #F2F2F2;
+}
+
+#contenedor {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+form {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
